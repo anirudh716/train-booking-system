@@ -42,8 +42,8 @@ Through this project, you'll learn:
    `npm install`
 
 ## Usage
-1.Open the app in your browser.
-2.Fill out the ticket form to add a new train ticket.
-3.See the ticket details displayed in the table.
-4.Use the "Delete" button next to each entry to remove it from the list.
-5.Your ticket data will be stored in `localStorage` and will persist if you refresh the page.
+1. Open the app in your browser.
+2. Fill out the ticket form to add a new train ticket.
+3. See the ticket details displayed in the table.
+4. Use the "Delete" button next to each entry to remove it from the list.
+5. Your ticket data will be stored in `localStorage` and will persist if you refresh the page.
